@@ -1,0 +1,45 @@
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\bin\Debug\JogoDado.exe.config
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.Form1.resources
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\bin\Debug\JogoDado.exe
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\bin\Debug\JogoDado.pdb
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.exe
+c:\users\lab\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.pdb
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.exe.config
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.exe
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.pdb
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.Form1.resources
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.Properties.Resources.resources
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.csproj.GenerateResource.Cache
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.exe
+C:\Users\Laboratorio\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.pdb
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.exe.config
+C:\Users\Neto\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.exe
+C:\Users\Neto\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.pdb
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.exe
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.pdb
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\mscorlib.dll
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\System.Net.Http.dll
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\System.Net.Http.xml
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\normidna.nlp
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\normnfc.nlp
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\normnfd.nlp
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\normnfkc.nlp
+C:\Users\Neto\Desktop\JogoDado\JogoDado\bin\Debug\normnfkd.nlp
+C:\Users\Neto\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.csprojResolveAssemblyReference.cache
+C:\Users\Neto\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.Form1.resources
+C:\Users\Neto\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.Properties.Resources.resources
+C:\Users\Neto\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.csproj.GenerateResource.Cache
+C:\Users\netne\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.exe.config
+C:\Users\netne\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.exe
+C:\Users\netne\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.pdb
+C:\Users\netne\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.exe
+C:\Users\netne\Desktop\JogoDado\JogoDado\bin\Debug\JogoDado.pdb
+C:\Users\netne\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.csprojResolveAssemblyReference.cache
+C:\Users\netne\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.Form1.resources
+C:\Users\netne\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.Properties.Resources.resources
+C:\Users\netne\Desktop\JogoDado\JogoDado\obj\Debug\JogoDado.csproj.GenerateResource.Cache
